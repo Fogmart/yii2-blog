@@ -1,6 +1,6 @@
 <?php
 
-namespace common\modules\blog;
+namespace fogmart\blog;
 
 /**
  * blog module definition class
